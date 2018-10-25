@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MegaGame</string>
+    <string name="texteTitre"> Saisir une valeur entre 1 et 100 :</string>
+    <string name="comparer">Comparer</string>
+</resources>
